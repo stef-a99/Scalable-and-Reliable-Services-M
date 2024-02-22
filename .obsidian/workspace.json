@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 2 (21-02-2024).md",
+                "file": "Lesson 1 (19-02-2024).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 2 (21-02-2024).md",
+                "file": "Lesson 1 (19-02-2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson 2 (21-02-2024).md",
+                "file": "Lesson 1 (19-02-2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson 2 (21-02-2024).md"
+                "file": "Lesson 1 (19-02-2024).md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8768b0a59baca453",
+  "active": "cd9683b9d7b33891",
   "lastOpenFiles": [
+    "Lesson 2 (21-02-2024).md",
     "imgs",
     "imgs/Pasted image 20240221194742.png",
-    "Lesson 1 (19-02-2024).md",
-    "Lesson 2 (21-02-2024).md"
+    "Lesson 1 (19-02-2024).md"
   ]
 }
